@@ -1,0 +1,10 @@
+string
+boolean
+tuple
+float
+list
+integer
+range
+set
+none
+dictionary
