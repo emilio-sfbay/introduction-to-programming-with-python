@@ -1,0 +1,10 @@
+1  reassignment
+2  mutation
+3  mutation
+4  neither
+5  reassignment
+6  mutation
+7  mutation
+8  mutation
+9  reassignment
+10 reassignment
