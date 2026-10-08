@@ -1,0 +1,4 @@
+# print the following
+# 42
+# 3.141592
+# 2
